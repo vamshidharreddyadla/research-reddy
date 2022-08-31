@@ -15,7 +15,9 @@ Media lab and its a non profitable organization.
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 in the week 2 lab I made small project by using scratch, it was very easy using srcatch and lots of fun. here is i am attaching my project link https://scratch.mit.edu/projects/717602885
-[Doc1.docx](https://github.com/vamshidharreddyadla/week2ResearchRepoDemo/files/9465090/Doc1.docx)
+![image](https://user-images.githubusercontent.com/110363227/187787236-29ab9e29-ee8b-442c-8e12-5d8edb7047c7.png)
+
+
 
 ## Week 2:
 
