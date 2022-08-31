@@ -37,3 +37,5 @@ https://www.youtube.com/watch?v=tRZGeaHPoaw
 
 
 ## Week 3:
+
+### What is visual code?
