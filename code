@@ -1,1 +1,39 @@
-abc 
+python syntax
+
+if 5 > 2:
+ print("Five is greater than two!")  
+if 5 > 2:
+        print("Five is greater than two!") 
+        
+        
+ if elif statement 
+ 
+        a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+
+python maths
+
+#Import math library
+import math
+
+#Round a number upward to its nearest integer
+x = math.ceil(1.4)
+
+#Round a number downward to its nearest integer
+y = math.floor(1.4)
+
+print(x)
+print(y)
+
+python maths
+
+a = 7
+b = 6
+if b < a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
