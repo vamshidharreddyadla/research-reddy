@@ -1,10 +1,15 @@
-# week2ResearchRepoDemo
+# Calculator
+Create your own Python Calculator App using Python and tkinter.
 
-<!-- how to comment in markdown -->
-unsecret
+Video Link: [https://youtu.be/QZPv1y2znZo](https://youtu.be/QZPv1y2znZo)
 
-## What is Scratch? 
-scratch is a visual programming language developed a MIT We used it for an intro to programming.
+![Calculator App](calculator.png)
 
-find your reflective journal here [reflectiveJournal.md](./reflections/reflectiveJournal.md)
-scratch is a visual programming language developed at MIT We used it for an intro to programming.
+---
+
+## Create Standalone Executable
+
+```shell
+pip install pyinstaller
+pyinstaller --onefile -w calc.py
+```
